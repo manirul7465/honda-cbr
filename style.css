@@ -1,0 +1,83 @@
+/* ------Header-----fonts
+
+                     ---------------------- */
+                     @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+                   
+
+.title{font-family: 'Poppins', sans-serif; color: #ffffff;}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+.header-para{ font-family: 'Poppins', sans-serif;color: #e0e0e0;}
+
+
+/* -----------
+=========== modal button----------- */
+
+.modal-button{width:168px;height: 44px;
+
+background: #e76e51; 
+border-radius: 5px;
+}
+
+
+/* -------     
+          section title text------------ */
+
+.Fetured-title{font-family: 'Poppins', sans-serif; color:#000000;}
+.small-text{color: #e76f51; font-family: 'Poppins', sans-serif;}
+
+
+.gray img{
+    filter: grayscale(100%);
+  }
+
+ .kaltu-img{clip-path: circle(40% at 40% 50%);
+
+
+
+
+}
+
+    .fa-star{color: orange;}
+
+
+
+    /* ----- happy section ------- */
+
+
+    .happy-title{font-family: 'Poppins', sans-serif;}
+    .happy-text{color: #e76f51;}
+    .card-text{color:#6c6c6c;  font-family: 'Poppins', sans-serif;}
+    .name{color: #23a6f0; font-family: 'Poppins', sans-serif;}
+    .banker{color: #252b42;  font-family: 'Poppins', sans-serif;}
+
+
+    /* ------- - -- ---------
+                            frequently section------------------ */
+
+    .frqent-title{color:#0d0925;  font-family: 'Poppins', sans-serif;}  
+    .span-ques{color: #e76f51;}   
+
+
+    
+    
+    /* ---------
+                 bonus part
+    ------------------------------*/
+
+
+.bonus-title{color:#0d0925;  font-family: 'Poppins', sans-serif;}
+
+
+/* -----------
+                bonus part 2
+                         -- footer ---------- */
+
+.footer-title{color:red;  font-family: 'Poppins', sans-serif; ;}
+
+
+
+
+                                       /*-----THE END------  */
